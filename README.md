@@ -19,9 +19,9 @@ These instructions will guide you on how to run the project.
 ### Running the Project
 
 1. Open the project in Simulink.
-2. Open the "S-Function stepper" block. Make sure "Generate wrapper TLC" is selected under build. If it is, hit "Build".
-3. Close the S function and return to the Simulink page.
-4. Select your Arduino board type.
+2. Select your Arduino board type.
+3. Open the "S-Function stepper" block. Make sure "Generate wrapper TLC" is selected under build. If it is, hit "Build".
+4. Close the S function and return to the Simulink page.
 5. Click on 'Build, Deploy & Start' in Simulink.
 
 Enjoy controlling your stepper drivers!
