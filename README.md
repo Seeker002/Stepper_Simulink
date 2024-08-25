@@ -1,6 +1,6 @@
 # Stepper_Simulink
 
-This project provides speed and direction control for Industrial Grade Stepper Drivers (such as R60, Dm5566, etc.) using Simulink.
+This project provides Arduino based speed and direction control for Industrial Grade Stepper Drivers (such as R60, Dm5566, etc.) using Simulink.
 
 ## Getting Started
 
